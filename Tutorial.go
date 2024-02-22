@@ -7,7 +7,7 @@ func main() {
 
 	fmt.Println("Welcome to the quiz game")
 
-	var name string = "Tim"
+	var name = "Tim" // You can use name := Tim
 	name = "Hello"
 	fmt.Println(name)
 }

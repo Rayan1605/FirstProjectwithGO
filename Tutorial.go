@@ -1,6 +1,6 @@
 package main
 
-// i am aware that Map is unordered just too lazy to fix it currently
+// I am aware that Map is unordered just too lazy to fix it currently
 import (
 	"fmt"
 	"strconv"
